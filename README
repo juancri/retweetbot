@@ -1,0 +1,13 @@
+License:
+	Check LICENSE for details
+
+Requirements:
+	* Python
+	* python-twitter: http://code.google.com/p/python-twitter/
+
+Setup:
+	* Edit the config and API sections in bot.py
+
+Run:
+	* Execute: python bot.py
+
