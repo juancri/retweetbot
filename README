@@ -6,6 +6,8 @@ Requirements:
 	* python-twitter: http://code.google.com/p/python-twitter/
 	* python-twitter patch for native retweet:
 		http://code.google.com/p/python-twitter/issues/detail?id=130
+	* python-twitter patch for new API:
+		http://code.google.com/p/python-twitter/issues/detail?id=152
 
 Setup:
 	* Edit the config and API sections in bot.py

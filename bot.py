@@ -29,7 +29,7 @@ first = 1
 while 1:
 	# get last tweets
 	print "Getting tweets..."
-	timeline = api.GetFriendsTimeline (since_id = lastid, count = count)
+	timeline = api.GetHomeTimeline (since_id = lastid, count = count)
 	
 	# update last ID
 	if len (timeline) > 0:
